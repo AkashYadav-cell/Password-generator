@@ -14,21 +14,28 @@ b)Features
 6)Additional Functions: Includes functionalities such as resetting input fields and displaying all stored users and their passwords.
 
 c)Usage
+
 1)Run the Application:
+
 *python password_generator.py
 2)Generate Password:
+
 *Enter a username.
 *Specify the desired password length.
 *Click the "Generate Password" button to create a new password.
 3)Store Password:
+
 *Click the "Accept" button to save the generated password.
 4)View Stored Users:
+
 *Click the "Show Users" button to display all usernames and their corresponding passwords.
 
 d)Contributions
+
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any feature requests or bug reports.
 
 e)License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Thank you for checking out the Password Generator project! If you have any questions or suggestions, please feel free to reach out.
