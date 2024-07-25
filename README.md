@@ -1,4 +1,4 @@
-# Password-generator
+# Password-generator (CodSoft)
 
 a)Project Overview
 
